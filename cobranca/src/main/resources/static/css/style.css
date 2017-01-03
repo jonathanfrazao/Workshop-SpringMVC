@@ -1,0 +1,24 @@
+//tela grande
+@media (min-width = 768px){
+	
+	.panel-default{
+		margin-right: 10px;
+		margin-left: 10px;
+	}
+	
+	.alert{
+		margin-right:10px;
+		margin-left:10px;
+	}
+
+}
+
+.custom-div-acimaPesquisa-inputsLabels{
+	margin-bottom:20px;
+}
+
+.custom-btn-novoTitulo-listaTitulo{
+	float: right;
+	margin-right:10px;
+	margin-bottom:10px;
+}
